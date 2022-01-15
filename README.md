@@ -1,4 +1,5 @@
 # assemblyAssignment3
+Computer Systems Organization HW assignment
 Various tasks performed using assembly language
 
 sumOfPowers.s --> this function should find the following sum: 1^2 + 2^2 + 3^2 + 4^2 + ... + n^2
